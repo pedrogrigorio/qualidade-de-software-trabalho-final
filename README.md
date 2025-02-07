@@ -5,5 +5,5 @@ Equipe:
 - Bruno Lima
 
 Code Smells:
-1 - Enum Implicit Values
-2 - JSX Outside The Render Method
+- 1. Enum Implicit Values
+- 2. JSX Outside The Render Method
